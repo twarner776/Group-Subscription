@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="9b3f4c110ffc62006c3005cce1050e6a" sys_domain="global" table="x_wec_group_subscr_group_subscriptions_table" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>jason.lindsey@weather.com</sys_created_by>
+            <sys_created_on>2016-07-22 14:57:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>133f4c110ffc62006c3005cce1050e6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_wec_group_subscr_group_subscriptions_table" name="x_wec_group_subscr_group_subscriptions_table" sys_domain="global" view="Default view">9b3f4c110ffc62006c3005cce1050e6a</sys_ui_form>
+            <sys_ui_section caption="Product Subscriptions" display_value="Product Subscriptions" name="x_wec_group_subscr_group_subscriptions_table" sys_domain="global" view="Default view">9c9dc49d0fbc62006c3005cce1050e57</sys_ui_section>
+            <sys_updated_by>jason.lindsey@weather.com</sys_updated_by>
+            <sys_updated_on>2016-07-22 14:57:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>jason.lindsey@weather.com</sys_created_by>
+            <sys_created_on>2016-07-22 14:57:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>933f4c110ffc62006c3005cce1050e6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_wec_group_subscr_group_subscriptions_table" name="x_wec_group_subscr_group_subscriptions_table" sys_domain="global" view="Default view">9b3f4c110ffc62006c3005cce1050e6a</sys_ui_form>
+            <sys_ui_section caption="Incident Notifications" display_value="Incident Notifications" name="x_wec_group_subscr_group_subscriptions_table" sys_domain="global" view="Default view">9b3f4c110ffc62006c3005cce1050e69</sys_ui_section>
+            <sys_updated_by>jason.lindsey@weather.com</sys_updated_by>
+            <sys_updated_on>2016-07-22 14:57:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>jason.lindsey@weather.com</sys_created_by>
+            <sys_created_on>2016-07-22 14:57:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>673f4c110ffc62006c3005cce1050e6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_wec_group_subscr_group_subscriptions_table" name="x_wec_group_subscr_group_subscriptions_table" sys_domain="global" view="Default view">9b3f4c110ffc62006c3005cce1050e6a</sys_ui_form>
+            <sys_ui_section caption="Problem Notifications" display_value="Problem Notifications" name="x_wec_group_subscr_group_subscriptions_table" sys_domain="global" view="Default view">df3f4c110ffc62006c3005cce1050e69</sys_ui_section>
+            <sys_updated_by>jason.lindsey@weather.com</sys_updated_by>
+            <sys_updated_on>2016-07-22 14:57:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>jason.lindsey@weather.com</sys_created_by>
+            <sys_created_on>2016-07-25 14:05:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e2202bca0fb4e2006c3005cce1050e2d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_wec_group_subscr_group_subscriptions_table" name="x_wec_group_subscr_group_subscriptions_table" sys_domain="global" view="Default view">9b3f4c110ffc62006c3005cce1050e6a</sys_ui_form>
+            <sys_ui_section caption="Activities" display_value="Activities" name="x_wec_group_subscr_group_subscriptions_table" sys_domain="global" view="Default view">6e202bca0fb4e2006c3005cce1050e2c</sys_ui_section>
+            <sys_updated_by>jason.lindsey@weather.com</sys_updated_by>
+            <sys_updated_on>2016-08-03 13:24:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_wec_group_subscr_group_subscriptions_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>jason.lindsey@weather.com</sys_created_by>
+            <sys_created_on>2016-07-22 14:57:37</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>9b3f4c110ffc62006c3005cce1050e6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_wec_group_subscr_group_subscriptions_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Group Subscriptions" source="x_wec_group_subscr">3a4b00950fbc62006c3005cce1050ebf</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Group Subscriptions">3a4b00950fbc62006c3005cce1050ebf</sys_scope>
+            <sys_update_name>sys_ui_form_sections_9b3f4c110ffc62006c3005cce1050e6a</sys_update_name>
+            <sys_updated_by>jason.lindsey@weather.com</sys_updated_by>
+            <sys_updated_on>2016-07-22 14:57:37</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
